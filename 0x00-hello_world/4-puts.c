@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * main -prints the output by using the put instead of printf
+ * main -it prints the output by using put
  *
- * Return -always (0)
+ * Return: always (0)
  *
  */
 int main(void)
